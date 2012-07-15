@@ -4,3 +4,7 @@ obj
 
 # mstest test results
 TestResults
+
+#other
+*.suo
+_ReSharper.FixXAMLReferences
